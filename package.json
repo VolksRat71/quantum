@@ -1,0 +1,15 @@
+{
+  "name": "quantum",
+  "version": "1.0.0",
+  "description": "An example of a simple quantum computing algorithm using Qiskit.js, which is a JavaScript library for quantum computing developed by IBM.",
+  "main": "qiskit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
